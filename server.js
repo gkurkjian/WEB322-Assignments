@@ -6,9 +6,9 @@
  *
  *  Name: __George Kurkjian____ Student ID: __137555207______ Date: __Jan_17-2022__
  *
- *  Online (Heroku) URL: ____https://frozen-springs-77019.herokuapp.com/____________
+ *  Online (Heroku) URL: ____https://pure-beyond-14431.herokuapp.com/____________
  *
- *  GitHub Repository URL: _____________________________________________________
+ *  GitHub Repository URL: ___https://github.com/gkurkjian/WEB322-Assignments/tree/main_______
  *
  ********************************************************************************/
 
