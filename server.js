@@ -8,7 +8,7 @@
  *
  *  Online (Heroku) URL: ____https://pure-beyond-14431.herokuapp.com/____________
  *
- *  GitHub Repository URL: ___https://github.com/gkurkjian/WEB322-Assignments/tree/main_______
+ *  GitHub Repository URL: ___https://github.com/gkurkjian/WEB322-Assignments/tree/main_____
  *
  ********************************************************************************/
 
